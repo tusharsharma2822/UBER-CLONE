@@ -2,3 +2,7 @@
 node_modules
 package.json
 package-lock.json
+vite.config.js
+eslint.config.js
+public
+assets
