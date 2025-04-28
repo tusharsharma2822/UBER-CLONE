@@ -4,5 +4,6 @@ package.json
 package-lock.json
 vite.config.js
 eslint.config.js
+tailwind.config.js
 public
 assets
